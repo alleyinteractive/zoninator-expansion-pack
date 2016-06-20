@@ -1,0 +1,38 @@
+.toplevel_page_zoninator .ui-autocomplete {
+	overflow-y: auto;
+	max-height: 400px;
+	li {
+		.image {
+			float: left;
+			width: 50px;
+			height: 50px;
+			margin-right: -60px;
+		}
+		img {
+			max-width: 100%;
+			max-height: 100%;
+		}
+		.details {
+			display: block;
+			margin-left: 60px;
+			overflow: hidden;
+		}
+	}
+}
+
+.zone-post-col.zone-post-thumbnail {
+	width: 60px;
+	text-align: center;
+	img {
+		max-width: 50px;
+		max-height: 50px;
+	}
+}
+.zone-post-col.zone-post-post_type {
+	width: 90px;
+	padding-right: 10px;
+	text-align: right;
+}
+.ui-autocomplete li {
+	border: 1px solid transparent;
+}

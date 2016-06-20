@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ruleset name="Zoninator-Expansion-Pack">
+	<description>Sniffs for the coding standards of the Zoninator Expansion Pack plugin</description>
+
+	<rule ref="WordPress-VIP">
+	</rule>
+</ruleset>

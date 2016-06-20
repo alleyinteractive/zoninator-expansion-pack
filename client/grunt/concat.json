@@ -1,0 +1,6 @@
+{
+  "dist": {
+    "src": ["client/js/zoninator-ep.js"],
+    "dest": "static/js/zoninator-ep.js"
+  }
+}

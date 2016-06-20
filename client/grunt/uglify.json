@@ -1,0 +1,12 @@
+{
+  "dist": {
+    "options": {
+      "sourceMap": true
+    },
+    "files": {
+      "static/js/zoninator-ep.min.js": [
+        "static/js/zoninator-ep.js"
+      ]
+    }
+  }
+}

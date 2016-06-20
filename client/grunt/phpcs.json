@@ -1,0 +1,9 @@
+{
+	"plugin": {
+		"src": "./"
+	},
+	"options": {
+		"bin": "vendor/bin/phpcs -p -s -v -n --extensions=php --ignore=\"*/vendor/*,*/node_modules/*,/tests/\"",
+		"standard": "codesniffer.ruleset.xml"
+	}
+}

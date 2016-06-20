@@ -1,0 +1,15 @@
+{
+	"target": {
+		"options": {
+			"domainPath": "/languages",
+			"mainFile": "zoninator-expansion-pack.php",
+			"potFilename": "zoninator-expansion-pack.pot",
+			"potHeaders": {
+				"poedit": true,
+				"x-poedit-keywordslist": true
+			},
+			"type": "wp-plugin",
+			"updateTimestamp": true
+		}
+	}
+}

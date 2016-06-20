@@ -1,0 +1,10 @@
+{
+	"options": {
+		"textdomain": "zoninator-expansion-pack"
+	},
+	"target": {
+		"files": {
+			"src": [ "*.php", "**/*.php", "!node_modules/**", "!php-tests/**", "!bin/**" ]
+		}
+	}
+}

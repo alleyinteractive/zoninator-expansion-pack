@@ -1,0 +1,27 @@
+{
+  "default": [
+    "build"
+  ],
+  "scripts": [
+    "concat",
+    "uglify"
+  ],
+  "styles": [
+    "scsslint",
+    "compass",
+    "postcss",
+    "cssmin",
+    "imagemin"
+  ],
+  "build": [
+    "scripts",
+    "styles"
+  ],
+  "i18n": [
+    "addtextdomain",
+    "makepot"
+  ],
+  "readme": [
+    "wp_readme_to_markdown"
+  ]
+}

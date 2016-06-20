@@ -1,0 +1,14 @@
+{
+  "js": {
+    "files": ["client/js/{,*/}*.js"],
+    "tasks": ["scripts"]
+  },
+  "compass": {
+    "files": ["client/sass/{,*/}*.{scss,sass}"],
+    "tasks": ["styles"]
+  },
+  "scaffold": {
+    "files": ["scaffold/*", "scaffold/*/*"],
+    "tasks": ["scaffold"]
+  }
+}
